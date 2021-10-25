@@ -18,3 +18,4 @@ in row-major order, using as few moves as possible.
 one step at a time
 3.You are permitted to slide tiles either horizontally or 
 vertically into the blank square.
+<img src="Pictures/Demo.webp" >
